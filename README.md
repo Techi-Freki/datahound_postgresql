@@ -1,6 +1,6 @@
 # Datahound PostgreSQL
 
-A PostgreSQL connector for [datahound](https://python.dbcombs.com/simple/datahound).
+A PostgreSQL connector for [datahound](https://github.com/Techi-Freki/datahound).
 
 ## Usage
 
